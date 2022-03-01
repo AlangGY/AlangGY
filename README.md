@@ -17,8 +17,6 @@
 - 어떻게하면 상태관리 잘했다고 소문날까 고민하고 있습니다. (Redux? Recoil? ContextAPI? state/props??)
 - 취업 하고 싶습니다🥲
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlangGY)](https://github.com/anuraghazra/github-readme-stats)
-
  ## 이런걸 다뤄보았습니다.
 <p>
   <strong>Languages</strong>
@@ -52,3 +50,5 @@
   ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
   
 </p>
+
+[![Alang's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlangGY)](https://github.com/AlangGY)
